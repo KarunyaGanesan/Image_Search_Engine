@@ -1,7 +1,7 @@
 # Image Search Engine
 A simple image search engine that fetches images from the Unsplash API based on user queries. This project demonstrates how to use HTML, CSS, and JavaScript to interact with external APIs and dynamically display image search results on a webpage.
 
-**Features:**
+**FEATURES:**
 
 **Responsive Image Search:** Allows users to search for images based on keywords.
 
@@ -12,7 +12,7 @@ A simple image search engine that fetches images from the Unsplash API based on 
 **Stylish User Interface:** Custom CSS provides a clean, modern UI with smooth user interactions.
 
 
-**Technologies Used:**
+**TECHNOLOGIES USED**
 
 **HTML:** Provides the structure of the webpage.
 
