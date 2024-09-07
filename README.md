@@ -11,7 +11,8 @@ A simple image search engine that fetches images from the Unsplash API based on 
 
 **Stylish User Interface:** Custom CSS provides a clean, modern UI with smooth user interactions.
 
-**Technologies Used**
+
+**Technologies Used:**
 
 **HTML:** Provides the structure of the webpage.
 
